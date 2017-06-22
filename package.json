@@ -1,0 +1,19 @@
+{
+  "name": "bradchristie-me-nodejs",
+  "version": "1.0.0",
+  "description": "BradChristie.me w/ NodeJS",
+  "main": "bin/www",
+  "scripts": {
+    "test": "mocha ./test/**/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradchristie-me/bradchristie-me-nodejs.git"
+  },
+  "author": "Brad Christie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bradchristie-me/bradchristie-me-nodejs/issues"
+  },
+  "homepage": "https://github.com/bradchristie-me/bradchristie-me-nodejs#readme"
+}
