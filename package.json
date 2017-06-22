@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bradchristie-me/bradchristie-me-nodejs/issues"
   },
-  "homepage": "https://github.com/bradchristie-me/bradchristie-me-nodejs#readme"
+  "homepage": "https://github.com/bradchristie-me/bradchristie-me-nodejs#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
